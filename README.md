@@ -40,7 +40,7 @@ To use this plugin, after activation of the plugin, you have to place [simple_ne
                                             
 **How to use this plugin**:                             
                                      
- After activitation of the plugin:                             
+ After activation of the plugin:                             
 
  **Step#1)** Go to menu management section (in admin panel) and create your menu. Remember the name of menu.                               
 
